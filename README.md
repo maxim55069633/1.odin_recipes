@@ -7,7 +7,7 @@
 This project aims to build a recipe website by using HTML I have learned in the Odin project's second module. Plus, the recipe knowledge comes from an awesome website : [Allrecipes](https://www.allrecipes.com/). it contains detailed instructions on how to cook about thousands of recpies from all over the world. 
 
 Screenshot:
-![Project Screenshot]()
+![Project Screenshot](./images/sample.png)
 
 
 All the images come from the bing under the license: Free to share and use commercially:
@@ -16,6 +16,6 @@ All the images come from the bing under the license: Free to share and use comme
 
 2. [Pizza](https://cn.bing.com/images/search?view=detailV2&ccid=vCfwLd5E&id=DE1017EEC9C0EFE10412E2000DA79DAC39C463C8&thid=OIP.vCfwLd5ExIzsi4Gb98o8tAHaFj&mediaurl=https%3a%2f%2fwww.receitasdepesos.com.br%2fwp-content%2fuploads%2f2020%2f10%2fpizza-de-frigideira-receita-scaled.jpg&exph=1920&expw=2560&q=pizza&simid=608041565741151116&FORM=IRPRST&ck=57297311423ACFE30FC98F340B8E31DE&selectedIndex=0&qft=+filterui%3alicense-L2_L3_L4&ajaxhist=0&ajaxserp=0)
 
-3.[Taco Pie](https://cn.bing.com/images/search?view=detailV2&ccid=EFeHkk0b&id=A3EED7ABC7DAB1E773FF7E3E8AC8A11AC4AF3A88&thid=OIP.EFeHkk0bW4bLGvTaWDY1cgHaE4&mediaurl=https%3a%2f%2fwww.foodista.com%2fsites%2fdefault%2ffiles%2fstyles%2ffeatured%2fpublic%2ffield%2fimage%2ftaco+pie.jpg&exph=400&expw=607&q=Taco+Pie&simid=608037266482354696&FORM=IRPRST&ck=C0EAC687E61BC1ECF06EE78416162B76&selectedIndex=1&qft=+filterui%3alicense-L2_L3_L4&ajaxhist=0&ajaxserp=0)
+3. [Taco Pie](https://cn.bing.com/images/search?view=detailV2&ccid=EFeHkk0b&id=A3EED7ABC7DAB1E773FF7E3E8AC8A11AC4AF3A88&thid=OIP.EFeHkk0bW4bLGvTaWDY1cgHaE4&mediaurl=https%3a%2f%2fwww.foodista.com%2fsites%2fdefault%2ffiles%2fstyles%2ffeatured%2fpublic%2ffield%2fimage%2ftaco+pie.jpg&exph=400&expw=607&q=Taco+Pie&simid=608037266482354696&FORM=IRPRST&ck=C0EAC687E61BC1ECF06EE78416162B76&selectedIndex=1&qft=+filterui%3alicense-L2_L3_L4&ajaxhist=0&ajaxserp=0)
 
 
